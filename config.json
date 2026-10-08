@@ -1,1 +1,9 @@
-{"url": "https://raw.githubusercontent.com/sploit12/burpai/main/malicious-spec.yaml"}
+{
+    "url": "https://raw.githubusercontent.com/sploit12/burpai/main/malicious-spec.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/sploit12/burpai/main/malicious-spec.yaml",
+            "name": "Foo"
+        }
+    ]
+}
