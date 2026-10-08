@@ -1,6 +1,6 @@
 openapi: "3.0.0"
 info:
   title: "test"
-  description: "<math><mtext><table><mglyph><style><!--</style><img src=x onerror=alert(document.domain)>"
+  description: "<details open ontoggle=alert(document.domain)><summary>XSS</summary></details>"
   version: "1"
 paths: {}
